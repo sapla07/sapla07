@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaste, I am Sumeet Sapla! 
 
 - 🔭 I’m currently working on Java & Springs Project 
 - 🌱 I’m currently learning advance Java, Algorithm &  Data Structures 
